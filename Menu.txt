@@ -1,1 +1,6 @@
 Menu txt, master branch
+
+Toma de nota primer sabado: 
+
+Funcion pedir nuemro: https://www.onlinegdb.com/f9_KCfvNl
+Funcion mostrar numero: https://www.onlinegdb.com/iSriTNSpb
