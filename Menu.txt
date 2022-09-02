@@ -6,3 +6,5 @@ Toma de apuntes Sabri/Prog: https://www.onlinegdb.com/Gn2YtwCML
 
 Funcion pedir nuemro: https://www.onlinegdb.com/f9_KCfvNl
 Funcion mostrar numero: https://www.onlinegdb.com/iSriTNSpb
+
+Ejercicio 3-5 a): https://onlinegdb.com/vcEuC5QR5
